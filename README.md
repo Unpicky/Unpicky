@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋 I'm Max</h1>
+<h1 align="center">Hi 👋 I'm Unpicky</h1>
 <h3 align="center">Developer | Building projects and learning every day</h3>
 
 ---
@@ -34,11 +34,11 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img src="https://github-readme-stats.vercel.app/api?username=Unpicky&show_icons=true&theme=tokyonight&hide_border=true"/>
 </p>
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Unpicky&layout=compact&theme=tokyonight&hide_border=true"/>
 </p>
 
 ---
@@ -46,7 +46,7 @@
 ## 🏆 Achievements
 
 <p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8"/>
+<img src="https://github-profile-trophy.vercel.app/?username=Unpicky&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8"/>
 </p>
 
 ---
@@ -54,5 +54,5 @@
 ## 🐍 Contributions
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake.svg" />
+  <img src="https://raw.githubusercontent.com/Unpicky/Unpicky/output/github-contribution-grid-snake.svg" />
 </p>
