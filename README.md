@@ -46,6 +46,9 @@ Tools for fine-tuning LLMs with QLoRA (4-bit quantization), including training s
 **Phada iOS Client**  
 SwiftUI iOS application that provides a chat interface for interacting with a custom LLM backend.
 
+**AI-Assisted Helpdesk Ticket System**
+Full-stack helpdesk system with role-based ticket workflows, SLA tracking, attachments, and optional AI support.
+
 **Text Classification Demo**  
 Educational NLP project demonstrating a text classification pipeline using TF-IDF and Logistic Regression with scikit-learn.
 
