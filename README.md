@@ -51,23 +51,3 @@ Full-stack helpdesk system with role-based ticket workflows, SLA tracking, attac
 
 **Text Classification Demo**  
 Educational NLP project demonstrating a text classification pipeline using TF-IDF and Logistic Regression with scikit-learn.
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=Unpicky&show_icons=true&theme=tokyonight&hide_border=true"/>
-</p>
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Unpicky&layout=compact&theme=tokyonight&hide_border=true"/>
-</p>
-
----
-
-## 🐍 Contributions
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Unpicky/Unpicky/output/github-contribution-grid-snake.svg" />
-</p>
